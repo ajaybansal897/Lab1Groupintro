@@ -15,3 +15,9 @@ My name is varunpreet singh.
 I like to be called as "varun".
 My github username is varunpreetsingh.
 Yes I have used github before.
+
+
+My name is Ajay Bansal.
+I like to be called as AJ.
+My github username is ajaybansal897.
+Yes I have used github before in my last semester.
